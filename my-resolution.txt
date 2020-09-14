@@ -4,4 +4,3 @@ Resolusi Saya :
 3. Menguasai Javascript AJAX
 4. Mempelajari React JS
 5. Mempelajari Javascript ES6
-6. Menguasai Laravel 8
