@@ -1,0 +1,6 @@
+Resolusi Saya :
+1. Menguasai RESTful API
+2. Menguasai Javascript Async
+3. Menguasai Javascript AJAX
+4. Mempelajari React JS
+5. Mempelajari Javascript ES6
